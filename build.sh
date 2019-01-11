@@ -1,3 +1,4 @@
+npm run docs:build
 cd .vuepress/dist
 git init
 git add -A

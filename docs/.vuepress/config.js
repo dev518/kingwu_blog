@@ -25,7 +25,7 @@ module.exports = {
               title: '随记', 
               collapsable: true,
               children: [
-                '/works/1', // 你的md文件地址
+                '/note/first', // 你的md文件地址
               ]
             }
           ]
